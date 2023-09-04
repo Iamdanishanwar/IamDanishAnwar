@@ -1,6 +1,6 @@
 # **Hi, 👋 I’m Danish Anwar**
 
-🌱 I’m currently learning salesforce
+🌱 Deeping dive into web development & salesforce development
 
 📫 Reach me at anwardanish333@gmail.com
 
