@@ -1,5 +1,4 @@
-
-👋 Hi, I’m Danish Anwar
+**Hi, 👋 I’m Danish Anwar**
 🌱 I’m currently learning salesforce
 📫 Reach me at anwardanish333@gmail.com
 💬 Ask me about Salesforce Admin, Apex, LWC
